@@ -1,0 +1,9 @@
+.counter-output {
+  width: 100%;
+  background-color: #3949ab;
+  color: #ffffff;
+  font-size: 1.4rem;
+  text-align: center;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
